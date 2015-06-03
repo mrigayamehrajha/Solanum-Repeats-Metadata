@@ -1,2 +1,2 @@
 # Solanum-Repeats-Metadata
-Metadata of Solanum lycopericum and Solanum tuberosum
+Metadata of Solanum lycopersicum and Solanum tuberosum
